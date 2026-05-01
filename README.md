@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Puja
 
-Lead Frontend Engineer with 11+ years of experienc
+Lead Frontend Engineer with 11+ years of experience
 Building high-performance, real-time web applications and scalable frontend platforms used in production.
 
 ---
