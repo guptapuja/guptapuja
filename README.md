@@ -1,10 +1,3 @@
-## Hi there 👋 I'm Puja
-
-Lead Frontend Engineer with 11+ years of experience
-Building high-performance, real-time web applications and scalable frontend platforms used in production.
-
----
-
 ### ⚡ What I Work On
 - Real-time systems (WebSockets, Kafka, streaming pipelines)
 - Micro-Frontend architecture (Module Federation)
@@ -45,5 +38,3 @@ Open to Frontend / Lead Frontend roles where I can contribute to:
 
 ### 📫 Reach Me at
 - Email: puja.ec676@gmail.com
-- Linkedin : https://www.linkedin.com/in/puja-gupta-b6715a56/
-- portfolio :https://puja-gupta-portfolio.pages.dev/
