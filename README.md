@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 Looking For
-Open to Frontend / Lead Frontend roles where I can contribute to:
+Open to Senior /Staff Frontend / Lead Frontend roles where I can contribute to:
 - Architecture decisions  
 - Performance optimization  
 - Scalable frontend platforms
