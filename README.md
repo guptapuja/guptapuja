@@ -43,6 +43,7 @@ Open to Frontend / Lead Frontend roles where I can contribute to:
 
 ---
 
-### 📫 Reach Me
-- Portfolio: https://puja-gupta-portfolio.pages.dev/  
-- Email: puja.ec676@gmail.com  
+### 📫 Reach Me at
+- Email: puja.ec676@gmail.com
+- Linkedin : https://www.linkedin.com/in/puja-gupta-b6715a56/
+- portfolio :https://puja-gupta-portfolio.pages.dev/
