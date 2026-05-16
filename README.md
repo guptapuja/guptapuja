@@ -1,4 +1,4 @@
-### ⚡ What I Work On
+### ⚡ Worked On
 - Real-time systems (WebSockets, Kafka, streaming pipelines)
 - Micro-Frontend architecture (Module Federation)
 - Scalable frontend systems using React & TypeScript
@@ -17,7 +17,8 @@
 Open to Frontend / Lead Frontend roles where I can contribute to:
 - Architecture decisions  
 - Performance optimization  
-- Scalable frontend platforms  
+- Scalable frontend platforms
+- React projects 
 
 ---
 
